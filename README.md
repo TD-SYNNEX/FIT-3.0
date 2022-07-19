@@ -12,7 +12,7 @@ https://developer.cisco.com/docs/iotod/#!introduction-to-cisco-iot-od/introducti
 </details> 
 
 <details>
-<summary> :Construction: DevNet IoT Use-Cases</summary>
+<summary> 🔌 DevNet IoT Use-Cases</summary>
 
 [PIW_ENRich_your_Business.pdf](https://github.com/TD-SYNNEX/FIT-3.0/files/9143295/PIW_ENRich_your_Business.pdf)
 
@@ -48,6 +48,15 @@ https://github.com/CiscoDevNet/industrial-netdevops
   
 </details> 
 
+<details>
+<summary> 🔌 Microsoft Azure IoT Use-Cases</summary>
+
+![CleanShot-Safari202207-19 at 13 05 29](https://user-images.githubusercontent.com/9085386/179819654-c8d52afc-b13b-4f85-bea3-4f706cbffb41.png)
+
+![CleanShot-Safari202207-19 at 13 13 41](https://user-images.githubusercontent.com/9085386/179820345-f60ae828-1cf1-4b3c-9f39-211fdb30ee72.png)
+
+</details>
+  
 <details>
 <summary> :computer: White Papers</summary>
 
