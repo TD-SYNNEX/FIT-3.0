@@ -1,6 +1,8 @@
 # FIT-3.0
 Forged in Tech 2.0 Competition
 
+[PIW_ENRich_your_Business.pdf](https://github.com/TD-SYNNEX/FIT-3.0/files/9143311/PIW_ENRich_your_Business.pdf)
+
 <details>
 <summary> :information_source: DevNet IoT Documentation</summary>
 
@@ -9,6 +11,15 @@ https://developer.cisco.com/docs/iotod/#!introduction-to-cisco-iot-od/introducti
 
 </details> 
 
+<details>
+<summary> :Construction: DevNet IoT Use-Cases</summary>
+
+[PIW_ENRich_your_Business.pdf](https://github.com/TD-SYNNEX/FIT-3.0/files/9143295/PIW_ENRich_your_Business.pdf)
+
+
+[PIW_ENRich_your_Business.pdf](https://github.com/TD-SYNNEX/FIT-3.0/files/9143300/PIW_ENRich_your_Business.pdf)
+
+</details> 
 
 <details>
 <summary> :information_source: IoT Learning Resources + Labs</summary>
