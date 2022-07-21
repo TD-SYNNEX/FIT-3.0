@@ -1,7 +1,6 @@
 # FIT-3.0
 Forged in Tech 2.0 Competition
 
-[PIW_ENRich_your_Business.pdf](https://github.com/TD-SYNNEX/FIT-3.0/files/9143311/PIW_ENRich_your_Business.pdf)
 
 <details>
 <summary> :information_source: DevNet IoT Documentation</summary>
