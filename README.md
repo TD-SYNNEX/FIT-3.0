@@ -6,7 +6,11 @@ Forged in Tech 2.0 Competition
 <summary> :information_source: DevNet IoT Documentation</summary>
 
 ### Documentation
+<br />
+
 https://developer.cisco.com/docs/iotod/#!introduction-to-cisco-iot-od/introduction-to-cisco-iot
+
+https://developer.cisco.com/docs/iotod/#!tech-guidance/overview
 
 </details> 
 
